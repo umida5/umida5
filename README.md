@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there,I'm Umida👋
+> I am a Backend developer.I want to learn to technologies and solving problems.
 
-<!--
-**umida5/umida5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Dev.to] (https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ] (https://dev.to/umida5)
 
-Here are some ideas to get you started:
+[![Telegram] (https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ] (https://t.me/umida_riksiyeva)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Me now
+- 💡Learning new technologies and developing software solutions and some hacks 🔍
+- ⏳Currrently I'm busy with:
+  -  📝 Studying at [Ilmhub.] (https://t.me/ilmhubuz)
+- 📫Reach me at: [riksiyevaumida@gmail.com] (mailto:your-email@riksiyevaumida@gmail.com)
+
+  # 📊Me Stack
+  - 💻 c# | .cpp
+  - 🌎 .NET 6/8
+
